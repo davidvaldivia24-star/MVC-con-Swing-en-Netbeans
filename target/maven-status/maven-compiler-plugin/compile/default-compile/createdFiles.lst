@@ -1,0 +1,4 @@
+com\proyecto\registro\controlador\ControladorRegistro.class
+com\proyecto\registro\modelo\Validador.class
+com\proyecto\registro\vista\VistaRegistro.class
+com\proyecto\registro\MainApp.class
